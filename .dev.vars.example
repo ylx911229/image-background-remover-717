@@ -1,0 +1,5 @@
+# Copy to .dev.vars for `npm run preview`.
+REMOVE_BG_API_KEY=
+TURNSTILE_SECRET_KEY=
+NEXT_PUBLIC_SITE_URL=http://localhost:8787
+NEXT_PUBLIC_TURNSTILE_SITE_KEY=
